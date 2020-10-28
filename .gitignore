@@ -4,3 +4,4 @@ public/barcodes/*
 app/Http/Controllers/DummyMethodController.php
 vendor
 stats
+composer.lock
